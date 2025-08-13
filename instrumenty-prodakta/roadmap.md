@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 0.5
 title: RoadMap
 ---
 
@@ -13,27 +13,27 @@ title: RoadMap
 
 ### Что внутри:
 
--  [Шаблоны roadmap от Miro](./roadmap#--шаблоны-roadmap-от-miro)
+-  [Шаблоны roadmap от Miro](./roadmap#%E2%80%94%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B-roadmap-%D0%BE%D1%82-miro)
 
--  [20+ шаблонов roadmap для продуктовых команд от Aha!](./roadmap#-20+-шаблонов-roadmap-для-продуктовых-команд-от-aha!)
+-  [20+ шаблонов roadmap для продуктовых команд от Aha!](./roadmap#-20+-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2-roadmap-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D1%85-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4-%D0%BE%D1%82-aha!)
 
--  [Бесплатные шаблоны roadmap от Notion](./roadmap#--бесплатные-шаблоны-roadmap-от-notion)
+-  [Бесплатные шаблоны roadmap от Notion](./roadmap#%E2%80%94%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B-roadmap-%D0%BE%D1%82-notion)
 
--  [Шаблон roadmap от Asana](./roadmap#-шаблон-roadmap-от-asana)
+-  [Шаблон roadmap от Asana](./roadmap#-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-roadmap-%D0%BE%D1%82-asana)
 
--  [6 бесплатных шаблонов roadmap от TheProductManager.com](./roadmap#-6-бесплатных-шаблонов-roadmap-от-theproductmanager.com)
+-  [6 бесплатных шаблонов roadmap от TheProductManager.com](./roadmap#-6-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D1%85-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2-roadmap-%D0%BE%D1%82-theproductmanager.com)
 
--  [Шаблон roadmap от ChatPRD](./roadmap#-шаблон-roadmap-от-chatprd)
+-  [Шаблон roadmap от ChatPRD](./roadmap#-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-roadmap-%D0%BE%D1%82-chatprd)
 
--  [Шаблон roadmap от Atlassian](./roadmap#-шаблон-roadmap-от-atlassian)
+-  [Шаблон roadmap от Atlassian](./roadmap#-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-roadmap-%D0%BE%D1%82-atlassian)
 
--  [Agile-шаблоны roadmap от ProductPlan](./roadmap#-agile-шаблоны-roadmap-от-productplan)
+-  [Agile-шаблоны roadmap от ProductPlan](./roadmap#-agile-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B-roadmap-%D0%BE%D1%82-productplan)
 
--  [7 примеров и шаблонов roadmap от Product School](./roadmap#-7-примеров-и-шаблонов-roadmap-от-product-school)
+-  [7 примеров и шаблонов roadmap от Product School](./roadmap#-7-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%B2-%D0%B8-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2-roadmap-%D0%BE%D1%82-product-school)
 
--  [Бесплатные шаблоны roadmap от Smartsheet](./roadmap#-бесплатные-шаблоны-roadmap-от-smartsheet)
+-  [Бесплатные шаблоны roadmap от Smartsheet](./roadmap#-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B-roadmap-%D0%BE%D1%82-smartsheet)
 
--  [Примеры и шаблоны roadmap от Figma](./roadmap#-примеры-и-шаблоны-roadmap-от-figma)
+-  [Примеры и шаблоны roadmap от Figma](./roadmap#-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D0%B8-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B-roadmap-%D0%BE%D1%82-figma)
 
 ---
 
@@ -47,7 +47,7 @@ title: RoadMap
 
 #### ![](./roadmap-2.png){width=167px height=80px} 20+ шаблонов roadmap для продуктовых команд от Aha!
 
- Более 20 шаблонов дорожных карт с примерами и инструкциями, как их адаптировать под разные команды и аудитории. Подборка поможет быстро визуализировать стратегические планы, выбрать нужный формат и понять, какие элементы включить. Подходит для продуктовых менеджеров и команд, которым важно видеть весь путь продукта и действовать по плану.\
+Более 20 шаблонов дорожных карт с примерами и инструкциями, как их адаптировать под разные команды и аудитории. Подборка поможет быстро визуализировать стратегические планы, выбрать нужный формат и понять, какие элементы включить. Подходит для продуктовых менеджеров и команд, которым важно видеть весь путь продукта и действовать по плану.\
 **Ссылка:** <https://www.aha.io/roadmapping/guide/templates/product-roadmap>
 
 ---
@@ -89,7 +89,7 @@ title: RoadMap
 
 #### ![](./roadmap-8.png){width=367px height=86px} Agile-шаблоны roadmap от ProductPlan
 
- Шаблон для команд, работающих по Agile, помогает визуализировать стратегию продукта на высоком уровне. Позволяет согласовать бэклоги, приоритизировать задачи и эффективно коммуницировать планы с командой и стейкхолдерами. Подходит для гибкой адаптации под различные этапы разработки.\
+Шаблон для команд, работающих по Agile, помогает визуализировать стратегию продукта на высоком уровне. Позволяет согласовать бэклоги, приоритизировать задачи и эффективно коммуницировать планы с командой и стейкхолдерами. Подходит для гибкой адаптации под различные этапы разработки.\
 **Ссылка:** <https://www.productplan.com/templates/>
 
 ---
@@ -114,5 +114,3 @@ title: RoadMap
 **Ссылка:** <https://www.figma.com/community/strategic-planning/product-roadmaps?editor_type=figjam>
 
 ---
-
-
